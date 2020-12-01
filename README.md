@@ -8,11 +8,11 @@ BIE 2020. Introducción a la minería de datos
 
 ## Descripción
 Este repositorio contiene el material necesario para el taller del BIE de introducción a la minería de datos.
-Esta es una actividad de iniciación a la minería de datos usando el software [Weka](https://github.com/alvarag/BIEMineriaDeDatos/blob/master/weka.jar). 
+Esta es una actividad de iniciación a la minería de datos usando el software [Weka](https://www.cs.waikato.ac.nz/ml/weka/).
 
 ## Cómo proceder
 Pasos a seguir:
-- Descargar el fichero comprimido ```datos.zip```.
+- Descargar el fichero comprimido [```datos.zip```](https://github.com/alvarag/BIEMineriaDeDatos/raw/master/data.zip).
 - Descomprimir el fichero en una carpeta local (ejemplo: Escritorio).
-- Descargar ```weka.jar```.
+- Descargar [```weka.jar```](https://github.com/alvarag/BIEMineriaDeDatos/raw/master/weka.jar).
 - Ejecutar Weka utilizando la máquina virtual de Java.
