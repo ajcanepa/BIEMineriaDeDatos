@@ -1,5 +1,6 @@
-# BIEMineriaDeDatos
-BIE 2020. Introducción a la minería de datos
+# BIE Minería de datos
+
+## BIE 2020. Introducción a la minería de datos
 
 ## Profesores
 - [Mario Juez Gil](https://github.com/mjuez)
