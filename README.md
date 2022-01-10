@@ -3,7 +3,7 @@
 ## BIE 2020. Introducción a la minería de datos
 
 ## Profesores
-- [Alicia Olivares Gil](https://github.com/aolivares)
+- [Alicia Olivares Gil](https://github.com/aliciaolivaresgil)
 - [Dr. Mario Juez Gil](https://github.com/mjuez)
 - [Dr. José Francisco Díez Pastor](https://github.com/joseFranciscoDiez)
 - [Dr. Álvar Arnaiz González](https://github.com/alvarag)
