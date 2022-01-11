@@ -1,6 +1,6 @@
 # BIE Minería de datos
 
-## BIE 2020. Introducción a la minería de datos
+## BIE 2022. Introducción a la minería de datos
 
 ## Profesores
 - [Alicia Olivares Gil](https://github.com/aliciaolivaresgil)
