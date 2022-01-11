@@ -16,5 +16,6 @@ Esta es una actividad de iniciación a la minería de datos usando el software [
 Pasos a seguir:
 - Descargar el fichero comprimido [```datos.zip```](https://github.com/alvarag/BIEMineriaDeDatos/raw/master/data.zip).
 - Descomprimir el fichero en una carpeta local (ejemplo: Escritorio).
-- Descargar [```weka.jar```](https://github.com/alvarag/BIEMineriaDeDatos/raw/master/weka.jar).
-- Ejecutar Weka utilizando la máquina virtual de Java.
+- Descargar [```weka.zip```](https://prdownloads.sourceforge.net/weka/weka-3-8-5-azul-zulu-linux.zip).
+- Descomprimir su contenido en un directorio local.
+- Ejecutar el script ```weka.sh```.
