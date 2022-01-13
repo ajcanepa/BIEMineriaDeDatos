@@ -21,4 +21,4 @@ Pasos a seguir:
 - Ejecutar el script ```weka.sh```.
 
 ## Acceder a esta página web
-Introducir en el navegador web esta dirección ```https://bit.ly/mineriabie```
+Introducir en el navegador web esta dirección [```https://bit.ly/mineriabie```](https://bit.ly/mineriabie)
