@@ -19,3 +19,6 @@ Pasos a seguir:
 - Descargar [```weka.zip```](https://prdownloads.sourceforge.net/weka/weka-3-8-5-azul-zulu-linux.zip).
 - Descomprimir su contenido en un directorio local.
 - Ejecutar el script ```weka.sh```.
+
+## Acceder a esta página web
+Introducir en el navegador web esta dirección ```https://bit.ly/mineriabie```
