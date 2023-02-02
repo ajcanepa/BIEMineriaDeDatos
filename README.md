@@ -4,6 +4,7 @@
 
 ## Profesores
 - [Alicia Olivares Gil](https://github.com/aliciaolivaresgil)
+- [Dr. David García García](https://github.com/davgarciagarcia)
 - [Dr. Mario Juez Gil](https://github.com/mjuez)
 - [Dr. José Francisco Díez Pastor](https://github.com/joseFranciscoDiez)
 - [Dr. Álvar Arnaiz González](https://github.com/alvarag)
